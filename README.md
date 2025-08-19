@@ -26,4 +26,3 @@ This project demonstrates **CRUD operations** (Create, Read, Update, Delete) wit
 
 ---
 
-## 📂 Project Structure
